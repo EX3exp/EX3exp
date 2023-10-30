@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **EX3exp/EX3exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:38f9fc,100:0cf70c&reversal=true&height=180&section=header&text=%20EX3%20&desc=%20&animation=twinkling&fontSize=58&fontColor=38754f&fontAlignY=32&stroke=f5faf7&strokeWidth=3)
+![EX3's GitHub stats](https://github-readme-stats.vercel.app/api?username=EX3exp&show_icons=true&theme=transparent&card_width=855&include_all_commits=true&ring_color=0fab2c&text_color=0fab9e&title_color=0fab2c&icon_color=0fab2c)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEX3exp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
