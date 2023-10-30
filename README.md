@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEX3exp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=🐇TODAY%20VISITED&edge_flat=true)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:38f9fc,100:0cf70c&reversal=true&height=240&section=header&text=%20Hello,Visitor!%20&desc=I'm%20EX3,%20a%20college%20student%20that%20learning%20various%20things.&descAlignY=52&descSize=19&animation=twinkling&fontSize=58&fontColor=38754f&fontAlignY=32&stroke=f5faf7&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:38f9fc,100:0cf70c&reversal=true&height=210&section=header&text=%20Hello,Visitor!%20&desc=I'm%20EX3,%20a%20college%20student%20that%20learning%20various%20things.&descAlignY=54&descSize=14&animation=twinkling&fontSize=54&fontColor=38754f&fontAlignY=32&stroke=f5faf7&strokeWidth=3)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EX3exp&layout=compact&card_width=850&count-private=true&text_color=0fab9e&title_color=0fab2c&icon_color=0fab2c&langs_count=5&custom_title=🐇Languages%20Usage)](https://github.com/EX3exp/github-readme-stats)
 
