@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 - *Game develop*
 - *Web design*
 
+### 🐇 Contact
+inthe_6788@naver.com
+
 ### 🐇 Social Activities
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Faine3_synth&style=for-the-badge&logo=x&label=A2NE"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9zACAt63RzJQ_lpP8kuDmw?style=for-the-badge&logo=youtube&label=NERo">
  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBeyYqKdgZaUiNf8EX2-Reg?style=for-the-badge&logo=youtube&label=EX3"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCO5jdSvlqb-wZouVa0HFi5g?style=for-the-badge&logo=youtube&label=A2NE">
