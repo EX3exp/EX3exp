@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:38f9fc,100:0cf70c&reversal=true&height=210&section=header&text=%20Hello,Visitor!%20&desc=I'm%20EX3,%20a%20college%20student%20doing%20various%20things.&descAlignY=54&descSize=14&animation=twinkling&fontSize=54&fontColor=38754f&fontAlignY=32&stroke=f5faf7&strokeWidth=3)
 
-![EX3's GitHub stats](https://github-readme-stats.vercel.app/api?username=EX3exp&show_icons=true&theme=transparent&card_width=450&ring_color=0fab2c&count-private=true&text_color=0fab9e&title_color=0fab2c&icon_color=0fab2c&custom_title=✨Github%20Stats)
+![EX3's GitHub stats](https://github-readme-stats.vercel.app/api?username=EX3exp&show_icons=true&theme=transparent&card_width=350&ring_color=0fab2c&count-private=true&text_color=0fab9e&title_color=0fab2c&icon_color=0fab2c&custom_title=✨Github%20Stats)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=EX3exp&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/EX3exp?pet-id=644100732301096390"
-    width="400"
+    width="350"
     height="120"
   />
 </a>
